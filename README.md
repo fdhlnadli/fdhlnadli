@@ -1,4 +1,4 @@
-### Hi there 👋 🐱‍🏍
+### Hi there, I'm Fadhlan! 👋🏻 🐱‍🏍
 
 <!--
 **fdhlnadli/fdhlnadli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a student at SMAN 10 Kota Bekasi. 
+Working part-time as Administration and Web Developer at Inertia Coffee Roastery.
+
+I'm a JavaScript enthusiast.
+
+I'm currently learning on something cool!! 👨🏻‍💻
+Currently learning ReactJS and PWA.
